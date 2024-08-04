@@ -77,7 +77,7 @@ function CreateArea(props) {
       <animated.img style={styles} class="col-md-2 mx-auto" width="100px" height="100px" src={satguar}></animated.img>
       <p class="col-md-8 mx-auto" style={{color: "whitesmoke"}}>Welcome to our website, where we are on a mission to provide exceptional painting services to customers in the areas we serve. We believe that painting doesn't have to be stressful or complicated, and we are passionate about making the process as seamless and enjoyable as possible.</p>
       <animated.img style={styles} class="col-md-2 mx-auto" width="100px" height="100px" src={fullyins}></animated.img>
-      <div style={{color: "#ff4c68"}}>
+      <div style={{color: "#000080"}}>
       <p class="col-4 mx-auto"><i><b>"We open life's doors by painting them!"</b></i></p>
       </div>
       </div></div>
