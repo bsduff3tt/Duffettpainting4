@@ -26,7 +26,7 @@ function CreateArea(props) {
   }
 
   async function postRequest (contactinfo,contactname,contactaddress){
-    const response = await fetch("http://localhost:3000",{
+    const response = await fetch("https://server-bp2iid6h3-bsduff3tts-projects.vercel.app",{
       method: "POST",
       headers: {"Content-Type": "application/x-www-form-urlencoded"},
       mode: "no-cors",
